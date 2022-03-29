@@ -1,1 +1,2 @@
 Bu birinci satır.
+Bu ikinci satır.
